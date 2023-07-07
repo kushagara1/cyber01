@@ -1,1 +1,1 @@
-# cyber01
+Python expert in password cracking, specializing in decrypting Zip file passwords. Proficient in cryptography, algorithm analysis, and targeted strategies for efficient password retrieval. Strong problem-solving and technical skills in developing Python scripts for decryption.
